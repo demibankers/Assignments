@@ -6,3 +6,4 @@ This repository contains my assignments
 [assignment 5](https://github.com/demibankers/Assignments/blob/master/graded_assignment_1.Rmd) 
 [assignment 6](https://github.com/demibankers/Assignments/blob/master/graded_assignment_2_2.Rmd)
 [Final R](https://github.com/demibankers/Assignments/blob/master/Final%20exam%20R%20Demi%20Bankers.Rmd)
+[Final Python](https://github.com/demibankers/Assignments/blob/master/exam_june_7_2018.ipynb)
