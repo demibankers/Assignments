@@ -5,4 +5,4 @@ This repository contains my assignments
 [assignment 4](https://github.com/demibankers/Assignments/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/demibankers/Assignments/blob/master/graded_assignment_1.Rmd) 
 [assignment 6](https://github.com/demibankers/Assignments/blob/master/graded_assignment_2_2.Rmd)
-[Final R] (https://github.com/demibankers/Assignments/blob/master/Final%20exam%20R%20Demi%20Bankers.Rmd)
+[Final R](https://github.com/demibankers/Assignments/blob/master/Final%20exam%20R%20Demi%20Bankers.Rmd)
